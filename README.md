@@ -150,7 +150,7 @@ Sometimes a problem could recieve multiple tickets, or a common issue may arise 
 <br />
 
 <p>
-<img src="https://imgur.com/OX0wYBT" height="80%" width="80%" alt="Closed ticket">
+<img src="https://imgur.com/OX0wYBT.png" height="80%" width="80%" alt="Closed ticket">
 </p>
 <p>
 As shown, this is a resolved ticket that was closed out by Support agent "Jacob West". The same as if you were working the ticket you can see all the information about the timeline, SLA level, Help Topic, and the agents that interacted with the ticket.
