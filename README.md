@@ -24,6 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<h3>Ticket 1</h3>
 <p><b>This first example will also function as a partial tutorial to show the dialog menus and the proper responses contained within each interaction.</b></p>
 <p>
 <img src="https://imgur.com/PjUibby.png" height="80%" width="80%" alt="Open ticket">
@@ -111,34 +112,58 @@ When there's been no response from the user after multiple attempts to contact t
 </p>
 <br />
 
+<h3>Ticket 2</h3>
 <p>
-<img src="" height="80%" width="80%" alt="">
+<img src="https://imgur.com/buk1dqJ.png" height="80%" width="80%" alt="Ticket 2 open">
 </p>
 <p>
-
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="">
-</p>
-<p>
-
+This ticket has already been created from the accounting team. Since there is only one other team, "Online Banking", this will be handled by the support team. Your support user can open it up and properly assign and work the ticket.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="">
+<img src="https://imgur.com/gVejj9X.png" height="80%" width="80%" alt="Ticket 2 assign">
 </p>
 <p>
+Notice how all applicable fields have beeen updated. Support agent Jacob did his due diligence prior to SLA assignment this time (not typical but can save time in some scenarios). 
 
+After contacting the user experiencing the problem, he was able to decern an apropriate SLA for the ticket. Gathering this information allowed Jacob to hone his scope of work down from an entire team experiencing the issue to finding out it was only two devices. 
+
+Jacob also kept open communication with the ticket, properly setting a time for follow up to address the issue further if necessary. This would allow for his work load to not be held up by one single ticket.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="">
+<img src="https://imgur.com/we0d1Dn.png" height="80%" width="80%" alt="Ticket Resolution">
 </p>
 <p>
-
+Due to Support agent Jacob solving the issue he was able to resolve the ticket and close out.
 </p>
 <br />
+ <h3>Ticket 3 - Closed</h3>
+<p>
+<img src="https://imgur.com/7XKVTpl.png" height="80%" width="80%" alt="Navigate to closed tickets">
+</p>
+<p>
+Sometimes a problem could recieve multiple tickets, or a common issue may arise often. In these cases being able to go back and assess how the issue was resolved previously can assist in working new tickets. By navigating to a closed ticket, we can view useful information about it.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/OX0wYBT" height="80%" width="80%" alt="Closed ticket">
+</p>
+<p>
+As shown, this is a resolved ticket that was closed out by Support agent "Jacob West". The same as if you were working the ticket you can see all the information about the timeline, SLA level, Help Topic, and the agents that interacted with the ticket.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/cgi5t7X.png" height="80%" width="80%" alt="Link tickets">
+</p>
+<p>
+If a reported issue is persistent after an initial ticket was closed or resolved, it may be useful to merge or link the previous ticket to a new one. 
+
+Merging will make the tickets history combine with the new one, this can be useful but can cause confusion if the dates of the tickets span a large amount of time. 
+
+To avoid confusion and clarify that new or different work has been done on an old issue. Linking tickets will allow keeping seperate "histories" of the tickets but will associate them together for easy access and referencing in the future.
+</p>
